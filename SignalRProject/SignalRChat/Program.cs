@@ -10,7 +10,7 @@ builder.Services.AddOpenApi();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("CorsPolicy", builder =>
-        builder.WithOrigins("http://localhost:3000") // React uygulamasının URL'i
+        builder.WithOrigins("http://localhost:8092") // React uygulamasının URL'i
             .AllowAnyMethod()
             .AllowAnyHeader()
             .AllowCredentials());
@@ -20,6 +20,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddSignalR();
 
 var app = builder.Build();
+app.UseCors("AllowAll");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

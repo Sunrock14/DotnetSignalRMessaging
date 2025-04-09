@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pwtIlA4DJRM=",
+  "dgSpecHash": "SUkAYkJrKho=",
   "success": true,
-  "projectFilePath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\signalr-project\\SignalRProject\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\DotnetSignalRMessaging\\SignalRProject\\SignalRChat\\SignalRChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",

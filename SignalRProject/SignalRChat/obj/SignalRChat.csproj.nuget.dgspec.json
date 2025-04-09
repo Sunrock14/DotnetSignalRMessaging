@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faruk\\OneDrive\\Masaüstü\\signalr-project\\SignalRProject\\SignalRChat\\SignalRChat.csproj": {}
+    "C:\\Users\\faruk\\OneDrive\\Masaüstü\\DotnetSignalRMessaging\\SignalRProject\\SignalRChat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faruk\\OneDrive\\Masaüstü\\signalr-project\\SignalRProject\\SignalRChat\\SignalRChat.csproj": {
+    "C:\\Users\\faruk\\OneDrive\\Masaüstü\\DotnetSignalRMessaging\\SignalRProject\\SignalRChat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\signalr-project\\SignalRProject\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\DotnetSignalRMessaging\\SignalRProject\\SignalRChat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\signalr-project\\SignalRProject\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\DotnetSignalRMessaging\\SignalRProject\\SignalRChat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\faruk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\signalr-project\\SignalRProject\\SignalRChat\\obj\\",
+        "outputPath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\DotnetSignalRMessaging\\SignalRProject\\SignalRChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
